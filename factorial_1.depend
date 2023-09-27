@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695839992 source:c:\users\magdy hadidy\desktop\ehab el\c\factorial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1695840659 source:c:\users\magdy hadidy\desktop\ehab el\c\factorial_1\odd .c
+	<stdio.h>
+	<stdlib.h>
+
